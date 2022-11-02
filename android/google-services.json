@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56054604001",
+    "project_id": "delivery-82dd4",
+    "storage_bucket": "delivery-82dd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56054604001:android:2f49ac00d60d0ebfcb57a0",
+        "android_client_info": {
+          "package_name": "com.elagkapp.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56054604001-lv5rdjp2d1bpe2rs8d1mqsqkpa1ob3eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJ9KFixg9MfdvPcGIeaKTt2Yl1Lb_hBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56054604001-lv5rdjp2d1bpe2rs8d1mqsqkpa1ob3eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

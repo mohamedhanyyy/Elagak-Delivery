@@ -41,7 +41,7 @@ class HttpHelper {
     final url = Uri.parse('$_baseUrl$path');
     final response = await http.post(url, body: body, headers: {
       'Accept': 'application/json',
-      // 'Authorization': 'Bearer ${CacheHelper.getData(key: 'token')}'
+      'Authorization': 'Bearer ${CacheHelper.getData(key: 'token')}'
     });
     return _handleResponse(response);
   }
